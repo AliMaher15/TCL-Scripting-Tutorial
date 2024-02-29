@@ -1,0 +1,12 @@
+
+
+reg  [3:0]  IN
+reg         Load
+reg         Up
+reg         Down
+reg         CLK
+wire        High
+wire [3:0]  Counter
+wire        Low
+
+

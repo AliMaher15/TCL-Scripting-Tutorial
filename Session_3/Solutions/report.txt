@@ -1,0 +1,4 @@
+fifo version 0 is identical to fifo version 1
+fifo version 1 is different from fifo version 2
+fifo version 0 is identical to fifo version 1
+fifo version 1 is different from fifo version 2

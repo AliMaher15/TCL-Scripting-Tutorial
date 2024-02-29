@@ -1,0 +1,13 @@
+pwd
+C:/Windows/System32
+cd ..
+pwd
+C:/Windows
+cd .. (control destination)
+/
+cd Tcl
+cd labs
+pwd (show current directory)
+C:/Tcl/labs
+source lab1.0.tcl (runs file)
+cls: clears screen
